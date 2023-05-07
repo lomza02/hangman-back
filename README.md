@@ -7,7 +7,7 @@ Repozytorium zawiera część backendową gry wisielec wraz z możliwością rej
 
 1. Sklonuj repozytorium
 ```bash
-https://github.com/lomza02/hangman-back.git
+git clone https://github.com/lomza02/hangman-back.git
 ```
 2. Wejdź do folderu projektu
 ```bash
