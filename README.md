@@ -21,11 +21,11 @@ composer install
 ```bash
 cp .env.example .env
 ```
-5. Skopiuj plik .env.example do .env
+5. Wygeneruj klucz aplikacji
 ```bash
 php artisan key:generate
 ```
-6. Skopiuj plik .env.example do .env
+6. Zaktualizuj plik .env z danymi dostępowymi do bazy danych MySQL
 ```makefile
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
